@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-scraping",
+  "version": "1.0.0",
+  "description": "scraping web menggunakan nodejs dan librari x-ray",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "badikirwan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "x-ray": "^2.3.4"
+  }
+}
