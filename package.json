@@ -9,7 +9,7 @@
   "author": "badikirwan",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "x-ray": "^2.3.4"
   }
 }
